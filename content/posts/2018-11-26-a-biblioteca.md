@@ -2,7 +2,8 @@
 layout: post
 title:  Um pouco de história...
 date:   2018-11-26 22:00:00 -0200
-categories: transição
+categories:
+- transição
 ---
 Nossa gente! Mais de 1500 acessos no meu primeiro texto! Isso foi o mais próximo de _viralizar_ que já cheguei 😊
 
