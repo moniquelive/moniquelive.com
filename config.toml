@@ -24,7 +24,7 @@ enableEmoji = true
   instagram = "https://www.instagram.com/monique.live/"
   youtube = "https://www.youtube.com/channel/UCML4uqYh36vkI0UTTGBxByg"
   github = "https://github.com/lccro"
-  gitlab = "https://gitlab.com/lccro"
+  # gitlab = "https://gitlab.com/lccro"
   linkedin = "https://www.linkedin.com/in/leolive/"
   # mastodon = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
