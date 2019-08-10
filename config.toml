@@ -17,7 +17,7 @@ enableEmoji = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = "favicons/"
+  favicon = "favicons/favicon.ico"
   description = "Um ser humano em busca de si mesmo."
   facebook = "https://www.facebook.com/cyberleo"
   twitter = "https://twitter.com/moniquelive"
