@@ -1,8 +1,8 @@
 ---
 title: Léo
-layout: post
 date:   2019-04-19 13:00:00 -0300
-categories: transição
+categories:
+- transição
 ---
 Léo se foi. Na verdade nunca esteve.
 

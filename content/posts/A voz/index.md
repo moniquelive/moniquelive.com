@@ -1,8 +1,8 @@
 ---
 title: A Voz
-layout: post
 date:   2019-03-16 21:00:00 -0300
-categories: transição
+categories:
+- transição
 ---
 
 Eu sempre tive o ouvido “sensível”. Desde neném, minha mãe conta, que eu não gostava de ficar em ambientes barulhentos. Lembro na infância do efeito hipnótico que um martelar, um serrote, ou uma bate-estaca exerciam sobre mim. Ficava prestando atenção no ritmo, viajando na maionese... 😂

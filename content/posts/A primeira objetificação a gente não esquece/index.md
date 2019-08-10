@@ -1,8 +1,8 @@
 ---
-title: A primeira objetificação a gente nunca esquece
-layout: post
+title: A primeira objetificação a gente não esquece
 date:   2019-05-26 22:00:00 -0300
-categories: transição
+categories:
+- transição
 ---
 Faz tempo que não escrevo, mas hoje tive uma experiência que me trouxe reflexões...
 
@@ -50,7 +50,7 @@ Foi uma surpresa/novidade pra mim, mas imagino que não seja a ultima. Lição a
 
 Só pra concluir, há uma estatística que diz que o Brasil é o país que mais mata LGBT ao mesmo tempo que é o país que mais consome pornografia com travestis, segundo os xvideos da vida.
 
-Se quiser continuar esta conversa, comenta lá embaixo ou me manda um direct no insta (@monique.live).
+Se quiser continuar esta conversa, comenta lá embaixo ou me manda um direct no insta [@monique.live](https://instagram.com/monique.live).
 
 Bjbj,
 

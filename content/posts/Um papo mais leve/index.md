@@ -1,12 +1,13 @@
 ---
 title: Um papo mais leve...
-layout: post
 date:   2018-12-05 21:00:00 -0200
-categories: transição trivialidades
+categories:
+- transição
+- trivialidades
 ---
 Como o próximo texto do assunto “transição” vai ser bastante _emocional_, essa semana vou falar de um assunto mais leve, que é uma situação trivial para meninas cis (cis = oposto de trans), mas que algumas meninas trans enfrentam no seu dia-a-dia 🙋🏻‍♀️
 
-![Pois é… Estou falando deles, os calçados… 😊](/images/posts/DraggedImage.5cf9aadfe6e8491a88e7fc9e67b72e9d.png)
+![Pois é… Estou falando deles, os calçados… 😊](shoe-1.png)
 
 Algumas meninas trans têm a sorte de calçarem na faixa dos 30 e pouco. Eu não sou uma delas… Estou na faixa dos 40 e pouco! 🙄
 
@@ -16,7 +17,7 @@ Comecei procurando pelas marcas tradicionais mais conhecidas de “calçados de 
 
 Mas tudo bem, a internet é vasta e estamos em 2018… Consegui achar alguns sites com calçados mais pra minha faixa etária (sapatilhas, sandálias, escarpins…).
 
-![](/images/posts/DraggedImage.8626937289be49f0a14d36b293b61d6d.png)
+![](shoe-2.png)
 
 **[Odete Lis](https://www.odetelis.com)** - é o meu preferido! Super variado, com coleções sazonais, o mais próximo de um “site normal” de calçados;
 

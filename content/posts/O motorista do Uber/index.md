@@ -1,8 +1,9 @@
 ---
 title: Motorista do Uber
-layout: post
 date:   2019-01-29 21:00:00 -0200
-categories: transição trivialidades
+categories:
+- transição
+- trivialidades
 ---
 Hoje resolvi ir à fono um pouco mais arrumadinha... Aos poucos estou ganhando mais confiança tanto com a minha aparência quanto com a coragem necessária para sair e saber que estou sendo julgada.
 
@@ -24,10 +25,10 @@ Quando cheguei em casa, tinha uma caixa pra mim na portaria. Desta vez, de dia, 
 
 Aliás hoje, 29 de Janeiro é o Dia da Visibilidade Trans. O Google até fez uma homenagem a Brenda Lee, que confesso que não conhecia... 😕
 
-![Homenagem do Google ao Dia da Visibilidade Trans Brazuca 💕](/images/posts/2019/01/google-trans.jpeg)
+![Homenagem do Google ao Dia da Visibilidade Trans Brazuca 💕](google-trans.jpeg)
 
 Hoje foi um dia bacana 🥰
 
-![Eu sem querer tirar a make às 22:30 😅](/images/posts/2019/01/me-2019-01.jpeg)
+![Eu sem querer tirar a make às 22:30 😅](me-2019-01.jpeg)
 
 _= M =_

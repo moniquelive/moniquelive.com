@@ -1,6 +1,5 @@
 ---
 title: A Semana da Barba
-layout: post
 date:   2019-02-07 21:00:00 -0200
 categories: transição
 ---
@@ -22,7 +21,7 @@ E vocês podem imaginar o tipo de sensações/emoções/memórias que uma barba 
 
 Ainda bem que a evolução é tangível... Era muito cerrada (desde cedo) e está cada vez mais inexistente 🙏🏻
 
-![Frodo, é você?](/images/posts/2019/02/thick-beard.jpeg)
-![A carinha é de sono](/images/posts/2019/02/light-beard.jpeg)
+{{< instagram BtSY6dVHs3e >}}
+{{< instagram Bv9hmOFpXEH >}}
 
 _= M =_

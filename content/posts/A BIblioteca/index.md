@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  Um pouco de história...
 date:   2018-11-26 22:00:00 -0200
 categories:
@@ -17,7 +16,7 @@ Então o texto abaixo foi escrito após 2 meses do início do tratamento hormona
 
 Um dos primeiros conceitos que me impactou nos vários treinamentos de PNL que assisti foi a Hierarquia de Níveis Neurológicos:
 
-![Diagrama da Hierarquia de Níveis Neurológicos](/images/posts/niveis.png)
+![Diagrama da Hierarquia de Níveis Neurológicos](niveis.png)
 
 O nível que mais chamou minha atenção foi o da identidade - o conjunto de características que caracterizam quem nós somos. Normalmente estas características estão associadas às frases que usamos para nos definir: _sou pontual_, _sou honesto(a)_, _sou exigente_, etc.
 

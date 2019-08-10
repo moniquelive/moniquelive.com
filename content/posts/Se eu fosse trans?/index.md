@@ -1,6 +1,8 @@
 ---
 title:  "Se eu fosse trans?"
 date:   2018-11-14 23:00:00 -0200
+categories:
+- transição
 ---
 Poderia ter passado a maior parte da minha vida me escondendo de mim...
 
@@ -33,5 +35,5 @@ E adoraria conversar com todos que quisessem saber mais a respeito, respeitosame
 E nunca fui tão feliz quanto agora....
 
 
-![A Cara da Felicidade](/images/posts/leblon2018.jpeg)
+![A Cara da Felicidade](leblon2018.jpeg)
 

@@ -1,8 +1,8 @@
 ---
 title: HRT
-layout: post
 date:   2019-03-29 21:00:00 -0300
-categories: transição
+categories:
+- transição
 ---
 
 Alguns amigos “da época do meu irmão” têm curiosidade sobre meu tratamento hormonal. Quais remédios fazem parte, que efeitos causam em mim, até quando vou precisar me medicar, etc.
@@ -47,5 +47,3 @@ Bom escrevi bastante dessa vez, mas se ficou alguma dúvida, manda la no insta [
 
 {{< instagram B0QqqoOJo0y >}}
   _= M =_
-
-<!-- ![Evoluindo](/images/posts/2019/03/hrt.jpeg) -->

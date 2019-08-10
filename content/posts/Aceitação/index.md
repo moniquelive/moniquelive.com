@@ -1,8 +1,8 @@
 ---
 title: Aceitação
-layout: post
 date:   2019-01-04 21:00:00 -0200
-categories: transição
+categories:
+- transição
 ---
 Quando percebi que - o que eu nem sabia o que era - não fazia parte do mainstream (ainda!) procurei me esconder primeiro dos outros, e com o tempo me escondi de mim.
 
@@ -16,7 +16,7 @@ Ah, uma curiosidade: toda vez que conto para algum familiar que vou contar para 
 
 Então reproduzo aqui a carta que escrevi e li para ele. Falar de improviso nunca foi meu forte, ainda mais com emoções fortes 😊 Está fazendo 1 ano agora em Janeiro:
 
-![Por que essa foto? Por que essa blogueira sempre teve o apoio da familia… ❤](/images/posts/hqdefault.b216988f2e0c43f785d5113adef1b8a9.jpg)
+![Por que essa foto? Por que essa blogueira sempre teve o apoio da familia… ❤](accept.jpg)
 
 <br>
 
