@@ -1,0 +1,33 @@
+[more]
+other = "Mais"
+
+[allTitle]
+other = "Todos os {{.Title }}"
+
+[recentTitle]
+other = "{{.Title }} Recentes"
+
+[readMore]
+other = "Leia mais"
+
+[whatsInThis]
+other = "O que há neste {{ .Type }}"
+
+[related]
+other = "Relacionado"
+
+[yourName]
+other = "O teu nome"
+
+[emailAddress]
+other = "Endereço de e-mail"
+
+[message]
+one = "Mensagem"
+other = "Mensagens"
+
+[emailRequiredNote]
+other = "É necessário um endereço de e-mail."
+
+[send]
+other = "Enviar"
