@@ -12,7 +12,7 @@ Poderia ter passado boa parte da minha vida procurando alguém a quem recorrer..
 
 Poderia ter vivido uma vida que não era a minha, tentando atender às expectativas que eu imaginava serem suas...
 
-Poderia ter machucado pessoas queridíssimas para mim, tentando ser algo que eu não era *e sem saber **o que** eu era...*
+Poderia ter machucado pessoas queridíssimas para mim, tentando ser algo que eu não era _e sem saber **o que** eu era..._
 
 Se eu fosse trans seria muito difícil explicar para você, com palavras...
 
