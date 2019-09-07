@@ -1,5 +1,5 @@
 ---
-title:  "Se eu fosse trans?"
+title:  Se eu fosse trans?
 date:   2018-11-14 23:00:00 -0200
 categories:
 - transição
