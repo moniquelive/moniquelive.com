@@ -1,6 +1,7 @@
 ---
 title: Semântica
 date:   2019-11-23 19:00:00 -0200
+cover: /images/covers/tinder.png
 categories: transição
 ---
     "- Oi tudo bom?"

@@ -1,8 +1,9 @@
 ---
 title: A primeira objetificação a gente não esquece
 date:   2019-05-26 22:00:00 -0300
+cover: /images/covers/objeto.jpg
 categories:
-- transição
+  - transição
 ---
 Faz tempo que não escrevo, mas hoje tive uma experiência que me trouxe reflexões...
 

@@ -1,9 +1,10 @@
 ---
 title: Motorista do Uber
 date:   2019-01-29 21:00:00 -0200
+cover: /images/covers/uber.png
 categories:
-- transição
-- trivialidades
+  - transição
+  - trivialidades
 ---
 Hoje resolvi ir à fono um pouco mais arrumadinha... Aos poucos estou ganhando mais confiança tanto com a minha aparência quanto com a coragem necessária para sair e saber que estou sendo julgada.
 

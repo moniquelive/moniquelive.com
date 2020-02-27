@@ -1,14 +1,21 @@
-baseURL: 'https://moniquelive.com'
+baseURL: "https://moniquelive.com"
 languageCode: pt-br
-title: Monique Oliveira
-theme: ananke
-disqusShortname: moniquelive-com
 DefaultContentLanguage: pt-br
+title: Monique Oliveira
+theme: dream
+
+googleAnalytics: UA-129884631-1
+DisqusShortname: moniquelive-com
+enableRobotsTXT: true
+
 SectionPagesMenu: main
 Paginate: 9
-googleAnalytics: UA-129884631-1
-enableRobotsTXT: true
 enableEmoji: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 sitemap:
   changefreq: monthly
@@ -19,20 +26,26 @@ params:
   title: Monique Oliveira
   favicon: favicons/favicon.ico
   description: Um ser humano em busca de si mesmo.
-  facebook: 'https://www.facebook.com/cyberleo'
-  twitter: 'https://twitter.com/moniquelive'
-  instagram: 'https://www.instagram.com/monique.live/'
-  youtube: 'https://www.youtube.com/channel/UCML4uqYh36vkI0UTTGBxByg'
-  github: 'https://github.com/lccro'
-  linkedin: 'https://www.linkedin.com/in/leolive/'
-  background_color_class: bg-dark-blue
-  body_classes: 'helvetica bg-near-white'
-  featured_image: /images/background.jpg
-  images:
-  - /images/background.jpg
-  recent_posts_number: 2
-  custom_css:
-    - css/custom.css
+  author: moniquelive
+  avatar: /images/me.jpg
+  motto: Um ser humano em busca de si mesmo.
+
+  # youtube: "https://www.youtube.com/channel/UCML4uqYh36vkI0UTTGBxByg"
+  facebook: cyberleo
+  twitter: moniquelive
+  instagram: monique.live
+  github: lccro
+  linkedin: leolive
+  stackoverflow: 9793/cyber-oliveira
+  siteStartYear: 2018
+
+  # dark mode
+  darkLinkColor: "#f77"
+  darkNav: true
+  dark404Button: true
+
+  background: "#333"
+  # backgroundImage: /images/background.jpg
 
 taxonomies:
   category: categories

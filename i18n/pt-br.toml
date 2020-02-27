@@ -31,3 +31,6 @@ other = "É necessário um endereço de e-mail."
 
 [send]
 other = "Enviar"
+
+[socialLinks]
+other = "Redes sociais"

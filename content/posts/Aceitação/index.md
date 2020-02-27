@@ -1,8 +1,9 @@
 ---
 title: Aceitação
 date:   2019-01-04 21:00:00 -0200
+cover: /images/covers/accept.jpg
 categories:
-- transição
+  - transição
 ---
 Quando percebi que - o que eu nem sabia o que era - não fazia parte do mainstream (ainda!) procurei me esconder primeiro dos outros, e com o tempo me escondi de mim.
 

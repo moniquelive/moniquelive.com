@@ -1,8 +1,9 @@
 ---
 title: HRT
 date:   2019-03-29 21:00:00 -0300
+cover: /images/covers/hrt.jpg
 categories:
-- transição
+  - transição
 ---
 
 Alguns amigos “da época do meu irmão” têm curiosidade sobre meu tratamento hormonal. Quais remédios fazem parte, que efeitos causam em mim, até quando vou precisar me medicar, etc.

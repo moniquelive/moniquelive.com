@@ -1,9 +1,10 @@
 ---
 title: Um papo mais leve...
 date:   2018-12-05 21:00:00 -0200
+cover: /images/covers/heels.jpg
 categories:
-- transição
-- trivialidades
+  - transição
+  - trivialidades
 ---
 Como o próximo texto do assunto “transição” vai ser bastante _emocional_, essa semana vou falar de um assunto mais leve, que é uma situação trivial para meninas cis (cis = oposto de trans), mas que algumas meninas trans enfrentam no seu dia-a-dia 🙋🏻‍♀️
 

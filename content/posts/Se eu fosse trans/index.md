@@ -1,8 +1,9 @@
 ---
 title:  Se eu fosse trans?
 date:   2018-11-14 23:00:00 -0200
+cover: /images/covers/trans.jpg
 categories:
-- transição
+  - transição
 ---
 Poderia ter passado a maior parte da minha vida me escondendo de mim...
 

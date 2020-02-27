@@ -1,6 +1,7 @@
 ---
 title: A Semana da Barba
 date:   2019-02-07 21:00:00 -0200
+cover: /images/covers/beard.jpg
 categories: transição
 ---
 

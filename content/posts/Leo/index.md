@@ -1,8 +1,9 @@
 ---
 title: Léo
 date:   2019-04-19 13:00:00 -0300
+cover: /images/covers/leo.jpg
 categories:
-- transição
+  - transição
 ---
 Léo se foi. Na verdade nunca esteve.
 
