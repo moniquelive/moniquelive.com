@@ -1,7 +1,7 @@
 <div class="ui centered relaxed grid dream-grid dream-back">
   {{ range where .Site.RegularPages "Section" "about" }}
   <section
-    class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    class="sixteen wide mobile eight wide tablet six wide computer column dream-column">
     <article>
       <div class="ui top attached segment">
         <h3 class="ui header">{{ .Title }}</h3>
@@ -14,7 +14,7 @@
   {{ end }}
 
   <section
-    class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    class="sixteen wide mobile eight wide tablet six wide computer column dream-column">
     <article>
       <div class="ui top attached segment">
         <h3 class="ui header">{{ i18n "socialLinks" }}</h3>
@@ -80,7 +80,7 @@
   </section>
 
   <section
-    class="sixteen wide mobile eight wide tablet four wide computer column dream-column">
+    class="sixteen wide mobile eight wide tablet six wide computer column dream-column">
     {{ if .Site.Copyright }}
     <footer class="ui segment">
       {{ .Site.Copyright | safeHTML }}
