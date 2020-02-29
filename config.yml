@@ -25,10 +25,10 @@ sitemap:
 params:
   title: Monique Oliveira
   favicon: favicons/favicon.ico
-  description: Um ser humano em busca de si mesmo.
+  description: Uma ser humana em busca de si mesma.
   author: moniquelive
   avatar: /images/me.jpg
-  motto: Um ser humano em busca de si mesmo.
+  motto: Uma ser humana em busca de si mesma.
 
   # youtube: "https://www.youtube.com/channel/UCML4uqYh36vkI0UTTGBxByg"
   facebook: cyberleo
