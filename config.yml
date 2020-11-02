@@ -3,6 +3,8 @@ languageCode: pt-br
 DefaultContentLanguage: pt-br
 title: Monique Oliveira
 theme: dream
+ignoreErrors:
+  - error-remote-getjson
 
 googleAnalytics: UA-129884631-1
 DisqusShortname: moniquelive-com
