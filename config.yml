@@ -1,6 +1,7 @@
 baseURL: "https://moniquelive.com"
 languageCode: pt-br
 DefaultContentLanguage: pt-br
+
 title: Monique Oliveira
 theme: dream
 ignoreErrors:
