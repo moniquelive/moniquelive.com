@@ -50,6 +50,8 @@ params:
   background: "#333"
   # backgroundImage: /images/background.jpg
 
+  enableSearch: true
+
 taxonomies:
   category: categories
   series: series
