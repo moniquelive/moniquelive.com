@@ -11,6 +11,8 @@ googleAnalytics: UA-129884631-1
 DisqusShortname: moniquelive-com
 enableRobotsTXT: true
 
+copyright: '<div style="display:flex;align-items:center"><a rel="license" style="margin-right:.8rem" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="licença" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><span>Copyright &copy; 2018-2021 Monique Oliveira some rights reserved</span></div>'
+
 SectionPagesMenu: main
 Paginate: 9
 enableEmoji: true
