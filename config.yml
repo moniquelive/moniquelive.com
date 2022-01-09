@@ -6,6 +6,7 @@ title: Monique Oliveira
 theme: dream
 ignoreErrors:
   - error-remote-getjson
+  - error-missing-instagram-accesstoken
 
 googleAnalytics: UA-129884631-1
 DisqusShortname: moniquelive-com
