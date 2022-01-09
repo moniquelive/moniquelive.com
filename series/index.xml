@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Series on Monique Oliveira</title><link>https://moniquelive.com/series/</link><description>Recent content in Series on Monique Oliveira</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><copyright>&lt;div style="display:flex;align-items:center">&lt;a rel="license" style="margin-right:.8rem" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">&lt;img alt="licença" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />&lt;/a>&lt;span>Copyright &amp;copy; 2018-2021 Monique Oliveira some rights reserved&lt;/span>&lt;/div></copyright><atom:link href="https://moniquelive.com/series/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Monique Oliveira</title>
+    <link>https://moniquelive.com/series/</link>
+    <description>Recent content in Series on Monique Oliveira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&lt;div style=&#34;display:flex;align-items:center&#34;&gt;&lt;a rel=&#34;license&#34; style=&#34;margin-right:.8rem&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;licença&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;span&gt;Copyright &amp;copy; 2018-2021 Monique Oliveira some rights reserved&lt;/span&gt;&lt;/div&gt;</copyright><atom:link href="https://moniquelive.com/series/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
