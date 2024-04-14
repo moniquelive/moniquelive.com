@@ -3,7 +3,7 @@ languageCode: pt-br
 DefaultContentLanguage: pt-br
 
 title: Monique Oliveira
-theme: dream
+theme: ""
 ignoreErrors:
   - error-remote-getjson
   - error-missing-instagram-accesstoken

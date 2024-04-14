@@ -1,0 +1,191 @@
+@font-face {
+  font-family: "Monaspace Radon";
+  src: url(https://cdn.jsdelivr.net/gh/githubnext/monaspace@v1.000/fonts/webfonts/MonaspaceRadon-Regular.woff)
+    format(woff2);
+}
+
+/* Rose Pine Moon palette */
+:root {
+  --rose-pine-moon-base: #232136;
+  --rose-pine-moon-surface: #2a273f;
+  --rose-pine-moon-overlay: #393552;
+  --rose-pine-moon-muted: #6e6a86;
+  --rose-pine-moon-subtle: #908caa;
+  --rose-pine-moon-text: #e0def4;
+  --rose-pine-moon-love: #eb6f92;
+  --rose-pine-moon-gold: #f6c177;
+  --rose-pine-moon-pine: #31748f;
+  --rose-pine-moon-foam: #9ccfd8;
+
+  --base-grid: 8px;
+  --colour-white: var(--rose-pine-moon-love);
+  --colour-black: var(--rose-pine-moon-base);
+}
+
+*,
+:after,
+:before {
+  box-sizing: border-box;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  background-position: 100%;
+}
+
+body {
+  background-color: var(--rose-pine-moon-base);
+  color: var(--rose-pine-moon-text);
+  text-rendering: optimizeLegibility;
+  font-family: "Monaspace Radon";
+  margin: 0;
+  padding: 0;
+}
+
+.links {
+  --link-size: calc(var(--base-grid) * 15);
+  color: var(--colour-black);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.face {
+  width: 9.5rem;
+  width: 9.5rem;
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-top: calc(var(--link-size) / -2);
+  margin-left: calc(var(--link-size) / -2);
+  transform: translate(160px, -55px);
+}
+
+.links__list {
+  position: relative;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.links__item {
+  width: var(--link-size);
+  height: var(--link-size);
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-top: calc(var(--link-size) / -2);
+  margin-left: calc(var(--link-size) / -2);
+  --angle: calc(720deg / var(--item-total));
+  --rotation: calc(140deg + var(--angle) * var(--item-count));
+  transform: rotate(var(--rotation))
+    translate(calc(var(--link-size) + var(--base-grid) * 2))
+    rotate(calc(var(--rotation) * -1))
+    scale(90%);
+}
+
+.links__icon {
+  width: calc(var(--base-grid) * 8);
+  height: calc(var(--base-grid) * 8);
+  transition: all 0.3s ease-in-out;
+  fill: var(--colour-black);
+}
+
+.links__text {
+  color: var(--rose-pine-moon-base);
+  position: absolute;
+  width: 100%;
+  left: 0;
+  text-align: center;
+  height: calc(var(--base-grid) * 2);
+  font-size: calc(var(--base-grid) * 2);
+  display: none;
+  bottom: calc(var(--base-grid) * 10.5);
+  animation: text 0.3s ease-in-out forwards;
+}
+
+.links__link {
+  opacity: 0;
+  animation: on-load 0.3s ease-in-out forwards;
+  animation-delay: calc(var(--item-count) * 150ms);
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  position: relative;
+  background-color: var(--colour-white);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: inherit;
+}
+
+.links__link:after {
+  content: "";
+  background-color: transparent;
+  width: var(--link-size);
+  height: var(--link-size);
+  border: 2px dashed var(--colour-white);
+  display: block;
+  border-radius: 50%;
+  position: absolute;
+  top: 0; /* calc(var(--link-size)-10); */
+  left: 0;
+
+  transition: all 0.3s cubic-bezier(0.53, -0.67, 0.73, 0.74);
+  transform: none;
+  opacity: 0;
+}
+
+.links__link:hover {
+  background-color: var(--rose-pine-moon-text);
+}
+
+.links__link:hover .links__icon {
+  transition: all 0.3s ease-in-out;
+  transform: translateY(calc(var(--base-grid) * -1));
+}
+
+.links__link:hover .links__text {
+  display: block;
+}
+
+.links__link:hover:after {
+  transition: all 0.3s cubic-bezier(0.37, 0.74, 0.15, 1.65);
+  transform: scale(1.1);
+  opacity: 1;
+}
+
+@keyframes on-load {
+  0% {
+    opacity: 0;
+    transform: scale(0.3);
+  }
+
+  70% {
+    opacity: 0.7;
+    transform: scale(1.1);
+  }
+
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes text {
+  0% {
+    opacity: 0;
+    transform: scale(0.3) translateY(0);
+  }
+
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(calc(var(--base-grid) * 8));
+  }
+}
