@@ -33,7 +33,7 @@ params:
   favicon: favicons/favicon.ico
   description: Uma ser humana em busca de si mesma.
   author: moniquelive
-  avatar: /images/me.jpg
+  avatar: /images/me.png
   motto: Uma ser humana em busca de si mesma.
 
   # youtube: "https://www.youtube.com/channel/UCML4uqYh36vkI0UTTGBxByg"
@@ -61,5 +61,4 @@ taxonomies:
   tag: tags
 
 outputs:
-  home: [ HTML, RSS, JSON ]
-
+  home: [HTML, RSS, JSON]
