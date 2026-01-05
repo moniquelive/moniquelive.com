@@ -24,6 +24,6 @@ Porém além do "medo" da anatomia da moça (que como falei acima, ela não est�
 
 "Poxa, bacana essa menina, _mas ela é homem_, então ela me _transformou em gay_". Na internet há varias discussões sobre a [fragilidade da sexualidade do homem hétero](https://www.google.com/search?q=fragilidade+sexualidade+homem+hetero), então não vou entrar nesse assunto. Acredito que os leitores habituais do meu blog se incomodaram quando escrevi "_mas ela é homem_" pois já sabem que _mulheres trans_ são **mulheres** antes de serem _trans_.
 
-Também acredito que se lembrem que ninguém "vira" nada, como expliquei no meu [primeiro post]({{< ref "/Se eu fosse trans" >}}). Se você, rapaz, não sente atração pelo gênero masculino, você continua sendo hétero. Mas não vamos ficar discutindo semântica...
+Também acredito que se lembrem que ninguém "vira" nada, como expliquei no meu [primeiro post]({{< relref "Se eu fosse trans" >}}). Se você, rapaz, não sente atração pelo gênero masculino, você continua sendo hétero. Mas não vamos ficar discutindo semântica...
 
 ![Evolução](evolution.jpg)
